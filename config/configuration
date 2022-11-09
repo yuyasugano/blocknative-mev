@@ -1,0 +1,5 @@
+const configuration = require('./configuration.json');
+
+module.exports = {
+    configuration,
+};
