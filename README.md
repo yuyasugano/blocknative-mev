@@ -38,6 +38,12 @@ ETH_MAINNET_HTTPS=https://mainnet.infura.io/v3/<your infura key>
 npm install
 node index.js
 ```
+ 
+## Pseudo code for Flashbots
+ 
+Incorporated the shown code in the blocknative blog to adopt Flashbots bundle in arbitrage strategy:
+ 
+ * https://www.blocknative.com/blog/mev-and-creating-a-basic-arbitrage-bot-on-ethereum-mainnet
   
 ## License
  
